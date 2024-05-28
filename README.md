@@ -1,6 +1,6 @@
-# NAS
+#  Neural Architecture Search
 
-ESG Neural Architecture Search
+
 This repository contains the code and resources for the study utilizing Neural Architecture Search (NAS) to optimize deep learning models for Environmental, Social, and Governance (ESG) datasets. ESG indicators are crucial for evaluating company practices, and this research aims to enhance the accuracy, interpretability, and explainability of ESG classification models.
 
 Overview
