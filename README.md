@@ -1,6 +1,3 @@
-Here’s the refined version of your portfolio outline, with a more compelling tone to highlight your expertise and make it stand out:
-
----
 
 # **Portfolio: Expertise in Neural Architecture Search and ESG Analytics**
 
