@@ -1,5 +1,5 @@
 
-# **Portfolio: Expertise in Neural Architecture Search and ESG Analytics**
+# Neural Architecture Search and ESG Analytics**
 
 This portfolio showcases my extensive experience and specialized skills in leveraging advanced machine learning techniques, particularly Neural Architecture Search (NAS), to create impactful and scalable solutions. My work focuses on optimizing deep learning models to enhance interpretability, accuracy, and explainability, particularly for Environmental, Social, and Governance (ESG) analytics.
 
